@@ -25,7 +25,7 @@ function Footer() {
       <p>
         A portfolio designed & built by{" "}
         <a
-          href="https://github.com/yujisatojr/react-portfolio-template"
+          href="https://dayakar349.github.io/Portfolio/"
           target="_blank"
           rel="noreferrer"
         >
